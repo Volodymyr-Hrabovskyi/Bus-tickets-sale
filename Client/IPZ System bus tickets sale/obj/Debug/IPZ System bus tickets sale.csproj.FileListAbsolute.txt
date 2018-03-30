@@ -1,0 +1,19 @@
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\bin\Debug\IPZ System bus tickets sale.exe.config
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\bin\Debug\IPZ System bus tickets sale.exe
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\bin\Debug\IPZ System bus tickets sale.pdb
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\App.g.cs
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale_MarkupCompile.cache
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale.g.resources
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\IPZ_System_bus_tickets_sale.Properties.Resources.resources
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale.csproj.GenerateResource.Cache
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale.exe
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale.pdb
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\MainWindow.baml
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\MainWindow.g.cs
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\Window1.baml
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\Window1.g.cs
+C:\Users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\Window2.baml
+C:\Users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\Window3.baml
+C:\Users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\Window2.g.cs
+C:\Users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\Window3.g.cs
+C:\Users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale.csprojResolveAssemblyReference.cache

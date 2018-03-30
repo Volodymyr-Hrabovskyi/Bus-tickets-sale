@@ -1,0 +1,47 @@
+﻿<Window x:Class="IPZ_System_bus_tickets_sale.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Bus Tickets" Height="366.743" Width="753.075">
+    <Grid Background="#FF7878EF" Margin="0,0,-8,-3" RenderTransformOrigin="0.363,1.089">
+        <Label Content="Дата відправлення:" HorizontalAlignment="Left" Margin="39,24,0,0" VerticalAlignment="Top"/>
+        <Label Content="Місце відправлення:" HorizontalAlignment="Left" Margin="210,24,0,0" VerticalAlignment="Top"/>
+        <Label Content="Місце прибуття:" HorizontalAlignment="Left" Margin="401,24,0,0" VerticalAlignment="Top"/>
+        <DatePicker x:Name="datePicker1" HorizontalAlignment="Left" Margin="39,56,0,0" VerticalAlignment="Top" Width="131"/>
+        <Label x:Name="label4" Content="Знайдені рейси:" HorizontalAlignment="Left" Margin="39,123,0,0" VerticalAlignment="Top"/>
+        <Button Content="Пошук" HorizontalAlignment="Left" Margin="576,56,0,0" VerticalAlignment="Top" Width="135" Height="31" Click="Button_Click"/>
+        <ComboBox x:Name="comboBox1" HorizontalAlignment="Left" Margin="210,58,0,0" VerticalAlignment="Top" Width="131" ItemStringFormat="">
+            <ComboBoxItem Content="Львів"></ComboBoxItem>
+            <ComboBoxItem Content="Івано-Франківськ"></ComboBoxItem>
+            <ComboBoxItem Content="Калуш"></ComboBoxItem>
+            <ComboBoxItem Content="Дрогобич"></ComboBoxItem>
+            <ComboBox.Effect>
+                <DropShadowEffect/>
+            </ComboBox.Effect>
+        </ComboBox>
+        <ComboBox x:Name="comboBox2" HorizontalAlignment="Left" Margin="401,58,0,0" VerticalAlignment="Top" Width="131">
+            <ComboBoxItem Content="Львів"></ComboBoxItem>
+            <ComboBoxItem Content="Івано-Франківськ"></ComboBoxItem>
+            <ComboBoxItem Content="Яремче"></ComboBoxItem>
+            <ComboBoxItem Content="Буковель"></ComboBoxItem>
+            <ComboBoxItem Content="Київ"></ComboBoxItem>
+            <ComboBox.Effect>
+                <DropShadowEffect/>
+            </ComboBox.Effect>
+        </ComboBox>
+        <ListView x:Name="listView1" HorizontalAlignment="Left" Height="162" Margin="39,154,0,0" VerticalAlignment="Top" Width="672" SelectionChanged="listView1_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Звідки" Width="90" DisplayMemberBinding="{Binding Звідки}"/>
+                    <GridViewColumn Header="Куди" Width="90" DisplayMemberBinding="{Binding Куди}"/>
+                    <GridViewColumn Header="Проміжні міста" Width="105" DisplayMemberBinding="{Binding Проміжні}"/>
+                    <GridViewColumn Header="Відправлення" Width="100" DisplayMemberBinding="{Binding Відправлення}"/>
+                    <GridViewColumn Header="Прибуття" Width="100" DisplayMemberBinding="{Binding Прибуття}"/>
+                    <GridViewColumn Header="Вільних" Width="80" DisplayMemberBinding="{Binding Вільних}"/>
+                    <GridViewColumn Header="ID" Width="100" DisplayMemberBinding="{Binding ID}"/>
+                </GridView>
+            </ListView.View>
+            <ListBox Height="100" Width="100"/>
+        </ListView>
+
+    </Grid>
+</Window>
