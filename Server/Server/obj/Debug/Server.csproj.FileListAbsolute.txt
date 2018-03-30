@@ -1,0 +1,6 @@
+c:\users\фокс\documents\visual studio 2013\Projects\Server\Server\bin\Debug\Server.exe.config
+c:\users\фокс\documents\visual studio 2013\Projects\Server\Server\bin\Debug\Server.exe
+c:\users\фокс\documents\visual studio 2013\Projects\Server\Server\bin\Debug\Server.pdb
+c:\users\фокс\documents\visual studio 2013\Projects\Server\Server\obj\Debug\Server.exe
+c:\users\фокс\documents\visual studio 2013\Projects\Server\Server\obj\Debug\Server.pdb
+C:\Users\фокс\documents\visual studio 2013\Projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
